@@ -1,5 +1,5 @@
 
-**The Land of Erehwon**
+# The Land of Erehwon
 
 In the land of Erehwon, which can be represented using a square grid, there are two competing factions, the Reds and the Blues. Each cell in the Erehwon grid is occupied by either a Red or a Blue or is vacant. 
 
